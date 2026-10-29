@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I'm Nouman Ahmad:
 🔭 I'm currently working on  AI Agent , an AI-powered social management chatbot.<br><br>👯 I'm looking to collaborate on AI, Python, and beginner-friendly cybersecurity projects.<br><br>🤝 I'm looking for help with Python programming, machine learning, and AI development.<br><br>🌱 I'm currently learning Python, Artificial Intelligence, and Cybersecurity.<br><br>💬 Ask me about UniMind AI, chatbot development, and my journey as a beginner developer.<br><br>⚡ Fun fact: I love turning creative ideas into AI projects that help students learn better!
 
 
